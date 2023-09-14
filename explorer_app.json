@@ -1,16 +1,18 @@
 [
 	{
-		"id": "app",
+		"id": "rockswap",
 		"external": "true",
 		"title": "Mainnets",
 		"logo": "https://i.imgur.com/ne6cKum.png",
 		"shortDescription": "Trade any token on the Bitrock Blockchain.",
-		"categories": "defi",
-    "author": "Rockswap",
-    "url": "https://rock-swap.io",
+		"categories":[
+	           "defi"
+	        ],
+   		"author": "Rockswap",
+    		"url": "https://rock-swap.io",
 		"description": "Trade any token on the Bitrock Blockchain.",
 		"site": "https://rock-swap.io",
-    "twitter": "",
+    		"twitter": "",
 		"telegram": "",
 		"github": ""
 	}
