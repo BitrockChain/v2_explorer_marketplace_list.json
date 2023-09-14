@@ -6,7 +6,7 @@
 		"logo": "https://i.imgur.com/ne6cKum.png",
 		"shortDescription": "Trade any token on the Bitrock Blockchain.",
 		"categories":[
-	           "Defi"
+	           "defi"
 	        ],
    		"author": "Rockswap",
     		"url": "https://rock-swap.io",
@@ -23,12 +23,12 @@
 		"logo": "https://i.imgur.com/uyveGvp.png",
 		"shortDescription": "Bitrock's Token Builder is a tool designed for simplicity and speed in deploying a standard Bitrock blockchain contract. Click the quick tutorial tab for more information.",
 		"categories":[
-	           "Defi"
+	           "defi"
 	        ],
    		"author": "Bitrock",
     		"url": "https://cointool.bit-rock.io/",
 		"description": "Bitrock's Token Builder is a tool designed for simplicity and speed in deploying a standard Bitrock blockchain contract. Click the quick tutorial tab for more information.",
-		"site": "https://rock-swap.io",
+		"site": "https://cointool.bit-rock.io/",
     		"twitter": "",
 		"telegram": "",
 		"github": ""
