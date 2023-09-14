@@ -32,5 +32,22 @@
     		"twitter": "",
 		"telegram": "",
 		"github": ""
+	},
+	{
+		"id": "sphynx",
+		"external": "true",
+		"title": "The Sphynx | Bridge",
+		"logo": "https://i.imgur.com/S0MWtsQ.png",
+		"shortDescription": "Bridge assets between ETH <> BROCK",
+		"categories":[
+	           "defi"
+	        ],
+   		"author": "Bitrock",
+    		"url": "hhttps://thesphynx.co/bridge/7171",
+		"description": "Bridge assets between ETH <> BROCK.",
+		"site": "https://thesphynx.co/bridge/7171",
+    		"twitter": "",
+		"telegram": "",
+		"github": ""
 	}
 ]
