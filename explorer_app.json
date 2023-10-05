@@ -49,5 +49,22 @@
     		"twitter": "",
 		"telegram": "",
 		"github": ""
-	}
+	},
+	{
+	    "id": "Wrapped",
+	    "external": "true",
+	    "title": "Wrapped Platform",
+	    "logo": "https://i.imgur.com/zitekqV.png",
+	    "shortDescription": "NFT and WEB3 Gaming hub.",
+	    "categories":[
+	             "nft"
+	          ],
+	       "author": "Wrapped",
+	        "url": "https://wrappedplatform.com/",
+	    "description": "Official partner. KYC-certified. NFT and WEB3 Gaming hub.",
+	    "site": "https://wrappedplatform.com/",
+	        "twitter": "https://twitter.com/WRAP_Platform",
+	    "telegram": "https://t.me/wrapped_platform",
+	    "github": ""
+	  }
 ]
