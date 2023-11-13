@@ -36,7 +36,7 @@
 	{
 		"id": "sphynx",
 		"external": "true",
-		"title": "The Sphynx | Bridge",
+		"title": "Sphynx Labs | Bridge",
 		"logo": "https://i.imgur.com/S0MWtsQ.png",
 		"shortDescription": "Bridge assets between ETH <> BROCK",
 		"categories":[
@@ -55,7 +55,7 @@
 	    "external": "true",
 	    "title": "Wrapped Platform",
 	    "logo": "https://i.imgur.com/zitekqV.png",
-	    "shortDescription": "NFT and WEB3 Gaming hub.",
+	    "shortDescription": "NFT and Web3 gaming hub.",
 	    "categories":[
 	             "NFT"
 	          ],
