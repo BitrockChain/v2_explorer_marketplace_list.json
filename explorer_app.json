@@ -6,7 +6,7 @@
 		"logo": "https://i.imgur.com/ne6cKum.png",
 		"shortDescription": "Trade any token on the Bitrock Blockchain.",
 		"categories":[
-	           "defi"
+	           "DeFi"
 	        ],
    		"author": "Rockswap",
     		"url": "https://rock-swap.io",
@@ -23,7 +23,7 @@
 		"logo": "https://i.imgur.com/uyveGvp.png",
 		"shortDescription": "Bitrock's Token Builder is a tool designed for simplicity and speed in deploying a standard Bitrock blockchain contract. Click the quick tutorial tab for more information.",
 		"categories":[
-	           "defi"
+	           "DeFi"
 	        ],
    		"author": "Bitrock",
     		"url": "https://cointool.bit-rock.io/",
@@ -40,7 +40,7 @@
 		"logo": "https://i.imgur.com/S0MWtsQ.png",
 		"shortDescription": "Bridge assets between ETH <> BROCK",
 		"categories":[
-	           "defi"
+	           "DeFi"
 	        ],
    		"author": "Bitrock",
     		"url": "https://thesphynx.co/bridge/7171",
@@ -57,7 +57,7 @@
 	    "logo": "https://i.imgur.com/zitekqV.png",
 	    "shortDescription": "NFT and WEB3 Gaming hub.",
 	    "categories":[
-	             "nft"
+	             "NFT"
 	          ],
 	       "author": "Wrapped",
 	        "url": "https://wrappedplatform.com/",
