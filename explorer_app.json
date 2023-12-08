@@ -66,5 +66,22 @@
 	        "twitter": "https://twitter.com/WRAP_Platform",
 	    "telegram": "https://t.me/wrapped_platform",
 	    "github": ""
+	  },
+	{
+	    "id": "usdb",
+	    "external": "true",
+	    "title": "USDBrock Stable Coin | Bridge",
+	    "logo": "https://i.imgur.com/jXGj7RH.png",
+	    "shortDescription": "Bridge between USDT (ERC-20) and USDB (BROCK-20) with ease using the Bitrock Stable Coin Bridge, developed in partnership with Wanchain.",
+	    "categories":[
+	             "DeFi"
+	          ],
+	       "author": "USDB",
+	        "url": "https://usdb.bit-rock.io/",
+	    "description": "Bridge between USDT (ERC-20) and USDB (BROCK-20) with ease using the Bitrock Stable Coin Bridge, developed in partnership with Wanchain.",
+	    "site": "https://usdb.bit-rock.io/",
+	    "twitter": "",
+	    "telegram": "",
+	    "github": ""
 	  }
 ]
