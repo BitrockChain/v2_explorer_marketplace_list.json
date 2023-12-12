@@ -1,87 +1,87 @@
 [
 	{
-		"id": "rockswap",
-		"external": "true",
-		"title": "Rockswap",
-		"logo": "https://i.imgur.com/ne6cKum.png",
-		"shortDescription": "Trade any token on the Bitrock Blockchain.",
-		"categories":[
-	           "DeFi"
-	        ],
-   		"author": "Rockswap",
-    		"url": "https://rock-swap.io",
-		"description": "Trade any token on the Bitrock Blockchain.",
-		"site": "https://rock-swap.io",
-    		"twitter": "",
-		"telegram": "",
-		"github": ""
+	  "id": "rockswap",
+	  "external": "true",
+	  "title": "Rockswap",
+	  "logo": "https://i.imgur.com/ne6cKum.png",
+	  "shortDescription": "Trade any token on the Bitrock Blockchain.",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "Rockswap",
+	  "url": "https://rock-swap.io",
+	  "description": "Trade any token on the Bitrock Blockchain.",
+	  "site": "https://rock-swap.io",
+	  "twitter": "",
+	  "telegram": "",
+	  "github": ""
 	},
 	{
-		"id": "cointool",
-		"external": "true",
-		"title": "Coin Tool",
-		"logo": "https://i.imgur.com/uyveGvp.png",
-		"shortDescription": "Bitrock's Token Builder is a tool designed for simplicity and speed in deploying a standard Bitrock blockchain contract. Click the quick tutorial tab for more information.",
-		"categories":[
-	           "DeFi"
-	        ],
-   		"author": "Bitrock",
-    		"url": "https://cointool.bit-rock.io/",
-		"description": "Bitrock's Token Builder is a tool designed for simplicity and speed in deploying a standard Bitrock blockchain contract. Click the quick tutorial tab for more information.",
-		"site": "https://cointool.bit-rock.io/",
-    		"twitter": "",
-		"telegram": "",
-		"github": ""
+	  "id": "cointool",
+	  "external": "true",
+	  "title": "Coin Tool",
+	  "logo": "https://i.imgur.com/uyveGvp.png",
+	  "shortDescription": "Bitrock's Token Builder is a tool designed for simplicity and speed in deploying a standard Bitrock blockchain contract. Click the quick tutorial tab for more information.",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "Bitrock",
+	  "url": "https://cointool.bit-rock.io/",
+	  "description": "Bitrock's Token Builder is a tool designed for simplicity and speed in deploying a standard Bitrock blockchain contract. Click the quick tutorial tab for more information.",
+	  "site": "https://cointool.bit-rock.io/",
+	  "twitter": "",
+	  "telegram": "",
+	  "github": ""
 	},
 	{
-		"id": "sphynx",
-		"external": "true",
-		"title": "Sphynx Labs | Bridge",
-		"logo": "https://i.imgur.com/S0MWtsQ.png",
-		"shortDescription": "Bridge assets between ETH <> BROCK",
-		"categories":[
-	           "DeFi"
-	        ],
-   		"author": "Bitrock",
-    		"url": "https://thesphynx.co/bridge/bitrock",
-		"description": "Bridge assets between ETH <> BROCK.",
-		"site": "https://thesphynx.co/bridge/7171",
-    		"twitter": "",
-		"telegram": "",
-		"github": ""
+	  "id": "sphynx",
+	  "external": "true",
+	  "title": "Sphynx Labs | Bridge",
+	  "logo": "https://i.imgur.com/S0MWtsQ.png",
+	  "shortDescription": "Bridge assets between ETH <> BROCK",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "Bitrock",
+	  "url": "https://thesphynx.co/bridge/bitrock",
+	  "description": "Bridge assets between ETH <> BROCK.",
+	  "site": "https://thesphynx.co/bridge/7171",
+	  "twitter": "",
+	  "telegram": "",
+	  "github": ""
 	},
 	{
-	    "id": "Wrapped",
-	    "external": "true",
-	    "title": "Wrapped Platform",
-	    "logo": "https://i.imgur.com/zitekqV.png",
-	    "shortDescription": "NFT and Web3 gaming hub.",
-	    "categories":[
-	             "NFT"
-	          ],
-	       "author": "Wrapped",
-	        "url": "https://marketplace.wrappedplatform.com/",
-	    "description": "Official partner. KYC-certified. NFT and Web3 gaming hub.",
-	    "site": "https://wrappedplatform.com/",
-	        "twitter": "https://twitter.com/WRAP_Platform",
-	    "telegram": "https://t.me/wrapped_platform",
-	    "github": ""
-	  },
+	  "id": "Wrapped",
+	  "external": "true",
+	  "title": "Wrapped Platform",
+	  "logo": "https://i.imgur.com/zitekqV.png",
+	  "shortDescription": "NFT and Web3 gaming hub.",
+	  "categories": [
+		"NFT"
+	  ],
+	  "author": "Wrapped",
+	  "url": "https://marketplace.wrappedplatform.com/",
+	  "description": "Official partner. KYC-certified. NFT and Web3 gaming hub.",
+	  "site": "https://wrappedplatform.com/",
+	  "twitter": "https://twitter.com/WRAP_Platform",
+	  "telegram": "https://t.me/wrapped_platform",
+	  "github": ""
+	},
 	{
-	    "id": "usdb",
-	    "external": "true",
-	    "title": "USDBrock Stable Coin | Bridge",
-	    "logo": "https://i.imgur.com/jXGj7RH.png",
-	    "shortDescription": "Bridge between USDT (ERC-20) and USDB (BROCK-20) with ease using the Bitrock Stable Coin Bridge, developed in partnership with Wanchain.",
-	    "categories":[
-	             "DeFi"
-	          ],
-	       "author": "USDB",
-	        "url": "https://usdb.bit-rock.io/",
-	    "description": "Bridge between USDT (ERC-20) and USDB (BROCK-20) with ease using the Bitrock Stable Coin Bridge, developed in partnership with Wanchain.",
-	    "site": "https://usdb.bit-rock.io/",
-	    "twitter": "",
-	    "telegram": "",
-	    "github": ""
-	  }
-]
+	  "id": "usdb",
+	  "external": "true",
+	  "title": "USDBrock Stable Coin | Bridge",
+	  "logo": "https://i.imgur.com/jXGj7RH.png",
+	  "shortDescription": "Bridge between USDT (ERC-20) and USDB (BROCK-20) with ease using the Bitrock Stable Coin Bridge, developed in partnership with Wanchain.",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "USDB",
+	  "url": "https://usdb.bit-rock.io/",
+	  "description": "Bridge between USDT (ERC-20) and USDB (BROCK-20) with ease using the Bitrock Stable Coin Bridge, developed in partnership with Wanchain.",
+	  "site": "https://usdb.bit-rock.io/",
+	  "twitter": "",
+	  "telegram": "",
+	  "github": ""
+	},
+  ]
