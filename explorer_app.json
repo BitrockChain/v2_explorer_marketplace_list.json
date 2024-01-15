@@ -83,5 +83,22 @@
 	  "twitter": "",
 	  "telegram": "",
 	  "github": ""
+	},
+	{
+	  "id": "revoke",
+	  "external": "true",
+	  "title": "Revoke.Cash",
+	  "logo": "https://i.ibb.co/k6NNJhP/revoke.png",
+	  "shortDescription": "Take control of token approval access to your wallet.",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "Revoke",
+	  "url": "https://revoke.cash/",
+	  "description": "Take control of token approval access to your wallet.",
+	  "site": "https://revoke.cash/",
+	  "twitter": "",
+	  "telegram": "",
+	  "github": ""
 	}
   ]
