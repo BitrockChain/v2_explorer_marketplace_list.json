@@ -70,16 +70,16 @@
 	{
 	  "id": "usdb",
 	  "external": "true",
-	  "title": "USDBrock Stable Coin | Bridge",
-	  "logo": "https://i.imgur.com/jXGj7RH.png",
-	  "shortDescription": "Bridge between USDT (ERC-20) and USDB (BROCK-20) with ease using the Bitrock Stable Coin Bridge, developed in partnership with Wanchain.",
+	  "title": "Brock Bridge",
+	  "logo": "https://i.imgur.com/BHrig6x.png",
+	  "shortDescription": "Seamlessly bridge assets between the Ethereum and Bitrock networks.",
 	  "categories": [
 		"DeFi"
 	  ],
-	  "author": "USDB",
-	  "url": "https://usdb.bit-rock.io/",
-	  "description": "Bridge between USDT (ERC-20) and USDB (BROCK-20) with ease using the Bitrock Stable Coin Bridge, developed in partnership with Wanchain.",
-	  "site": "https://usdb.bit-rock.io/",
+	  "author": "bitrock",
+	  "url": "https://bridge.bit-rock.io/",
+	  "description": "Seamlessly bridge assets between the Ethereum and Bitrock networks.",
+	  "site": "https://bridge.bit-rock.io/",
 	  "twitter": "",
 	  "telegram": "",
 	  "github": ""
