@@ -51,23 +51,6 @@
 	  "github": ""
 	},
 	{
-	  "id": "Wrapped",
-	  "external": "true",
-	  "title": "NFT Marketplace | Wrapped Platform",
-	  "logo": "https://i.imgur.com/zitekqV.png",
-	  "shortDescription": "NFT and Web3 gaming hub.",
-	  "categories": [
-		"NFT"
-	  ],
-	  "author": "Wrapped",
-	  "url": "https://wrappedplatform.com/",
-	  "description": "Official partner. KYC-certified. NFT and Web3 gaming hub.",
-	  "site": "https://wrappedplatform.com/",
-	  "twitter": "https://twitter.com/WRAP_Platform",
-	  "telegram": "https://t.me/wrapped_platform",
-	  "github": ""
-	},
-	{
 	  "id": "usdb",
 	  "external": "true",
 	  "title": "Brock Bridge",
