@@ -17,6 +17,40 @@
 	  "github": ""
 	},
 	{
+	  "id": "rockport",
+	  "external": "true",
+	  "title": "Rockport",
+	  "logo": "https://i.imgur.com/ne6cKum.png",
+	  "shortDescription": "Deploy or bridge any token to its wrapped asset on 10+ supported chains.",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "Rockswap",
+	  "url": "https://rock-swap.io",
+	  "description": "Deploy or bridge any token to its wrapped asset on 10+ supported chains.",
+	  "site": "https://www.rock-swap.io/rockport",
+	  "twitter": "",
+	  "telegram": "",
+	  "github": ""
+	},
+	{
+	  "id": "rockswapmultichain",
+	  "external": "true",
+	  "title": "Rockswap Multichain",
+	  "logo": "https://i.imgur.com/ne6cKum.png",
+	  "shortDescription": "Trade assets across 10+ supported chains.",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "Rockswap",
+	  "url": "https://rock-swap.io",
+	  "description": "Trade assets across 10+ supported chains.",
+	  "site": "https://www.rock-swap.io/multichain",
+	  "twitter": "",
+	  "telegram": "",
+	  "github": ""
+	},
+	{
 	  "id": "cointool",
 	  "external": "true",
 	  "title": "Coin Tool",
