@@ -51,6 +51,23 @@
 	  "github": ""
 	},
 	{
+	  "id": "enkrypt",
+	  "external": "true",
+	  "title": "Enkrypt Wallet",
+	  "logo": "https://i.imgur.com/wUNluS2.png",
+	  "shortDescription": "Trade, manage, send, and receive Bitrock chain assets, with full integration in Enkrypt Wallet.",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "Enkrypt",
+	  "url": "https://www.enkrypt.com/",
+	  "description": "Trade, manage, send, and receive Bitrock chain assets, with full integration in Enkrypt Wallet.",
+	  "site": "https://www.enkrypt.com/",
+	  "twitter": "",
+	  "telegram": "",
+	  "github": ""
+	},
+	{
 	  "id": "cointool",
 	  "external": "true",
 	  "title": "Coin Tool",
