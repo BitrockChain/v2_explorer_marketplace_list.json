@@ -134,5 +134,22 @@
 	  "twitter": "",
 	  "telegram": "",
 	  "github": ""
+	},
+	{
+	  "id": "coincreate",
+	  "external": "true",
+	  "title": "CoinCreate",
+	  "logo": "https://i.imgur.com/bwrRKR0.png",
+	  "shortDescription": "Deploy staking, vesting, NFT,and ERC404 contracts via CoinCreate's no-code easy-to-use interface.",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "CoinCreate",
+	  "url": "https://coincreate.io/",
+	  "description": "Deploy staking, vesting, NFT,and ERC404 contracts via CoinCreate's no-code easy-to-use interface.",
+	  "site": "https://coincreate.io/",
+	  "twitter": "",
+	  "telegram": "",
+	  "github": ""
 	}
   ]
