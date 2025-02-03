@@ -151,5 +151,22 @@
 	  "twitter": "",
 	  "telegram": "",
 	  "github": ""
+	},
+	{
+	  "id": "bitdog",
+	  "external": "true",
+	  "title": "BitDog",
+	  "logo": "https://i.imgur.com/7X6whcH.png",
+	  "shortDescription": "Tap, earn, and stack $BDOG rewards with BitDog Mining Tycoon, completely free!",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "BitDog",
+	  "url": "https://bit-dog.com",
+	  "description": "Tap, earn, and stack $BDOG rewards with BitDog Mining Tycoon, completely free!",
+	  "site": "https://bit-dog.com",
+	  "twitter": "https://x.com/bitdog_brock",
+	  "telegram": "https://t.me/bitdogbrock",
+	  "github": ""
 	}
   ]
