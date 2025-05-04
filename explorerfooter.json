@@ -11,6 +11,14 @@
           "url": "https://docs.bit-rock.io/developer/connect-to-chain"
         },
         {
+          "text": "Running Full Node",
+          "url": "https://docs.bit-rock.io/developer/running-full-node"
+        },
+        {
+          "text": "Node API",
+          "url": "https://docs.bit-rock.io/developer/api-method"
+        },
+        {
           "text": "GitHub",
           "url": "https://github.com/BitrockChain"
         }
