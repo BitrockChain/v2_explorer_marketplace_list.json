@@ -168,5 +168,22 @@
 	  "twitter": "https://x.com/bitdog_brock",
 	  "telegram": "https://t.me/bitdogbrock",
 	  "github": ""
+	},
+	{
+	  "id": "bitdogwallet",
+	  "external": "true",
+	  "title": "BitDog",
+	  "logo": "https://i.imgur.com/7X6whcH.png",
+	  "shortDescription": "Your Gateway to Decentralized Finance.",
+	  "categories": [
+		"DeFi"
+	  ],
+	  "author": "BitDog",
+	  "url": "https://bitdogwallet.com",
+	  "description": "BitDog Wallet gives you full control of your digital assets with military-grade security and an intuitive interface.",
+	  "site": "https://bit-dog.com",
+	  "twitter": "https://x.com/bitdog_brock",
+	  "telegram": "https://t.me/bitdogbrock",
+	  "github": ""
 	}
   ]
